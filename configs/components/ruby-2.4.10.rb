@@ -106,8 +106,6 @@ component 'ruby-2.4.10' do |pkg, settings, platform|
     'el-7-aarch64',
     'eos-4-i386',
     'redhatfips-7-x86_64',
-    'sles-11-x86_64',
-    'sles-11-i386',
     'sles-12-ppc64le',
     'solaris-10-sparc',
     'solaris-11-sparc',
